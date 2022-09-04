@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.title {
+    text-align: center;
+    margin-top: 3px;
+    font-weight: bold;
+    color: rgb(13, 157, 228);
+}
+.article {
+    background: #f1f1f1;
+    box-shadow: #fcfc;
+    padding: 2rem;
+}
+.p {
+    color: rgb(4, 105, 71);
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.buttonrlt {
+    direction: rtl;
+    
+}

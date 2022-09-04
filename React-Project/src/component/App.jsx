@@ -1,13 +1,13 @@
-import React from 'react';
-import FormikContainer from './formik/FormikContainer';
+import React from "react";
+import Index from './React-Army/jsontojsxtojson/Index'
+
 
 const App = () => {
-    return (
-        <div className='container'>
-            <h2>Formik Form Project</h2>
-            <FormikContainer />
-        </div>
-    );
+  return (
+    <div>
+      <Index />
+    </div>
+  )
 }
 
 export default App;
